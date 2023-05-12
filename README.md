@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center"> FARNAZ NOJAVAN </h1>
 
 <h2 align="center"> Environmental Data Scientist</h2>
