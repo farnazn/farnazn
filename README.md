@@ -1,7 +1,6 @@
 <h3 align="left"> FARNAZ NOJAVAN </h3>
 
-<h4 align="left"> Environmental Data Scientist</h4>
-<h4 align="left"> Center for Environmental Measurement and Modeling  </h4>
+<h4 align="left"> Environmental Data Scientist, Center for Environmental Measurement and Modeling </h4>
 
 - This is how you pronounce my name: `[færˈnɑːz]` - and since not everyone knows what to do with [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), [here's a YouTube video saying it](https://www.youtube.com/watch?v=wnW72cD-Fo8)
 
