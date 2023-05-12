@@ -1,7 +1,7 @@
-<h1 align="center"> FARNAZ NOJAVAN </h1>
+<h1 align="left"> FARNAZ NOJAVAN </h1>
 
-<h2 align="center"> Environmental Data Scientist</h2>
-<h4 align="center"> Environmental Measurement and Modeling  </h4>
+<h2 align="left"> Environmental Data Scientist</h2>
+<h4 align="left"> Center for Environmental Measurement and Modeling  </h4>
 
 <!--
 **farnazn/farnazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
