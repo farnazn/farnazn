@@ -1,7 +1,7 @@
-<h3 align="left"> FARNAZ NOJAVAN </h3>
-Hello!
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 I am Farnaz! This is how you pronounce my name: `[færˈnɑːz]` - and since not everyone knows what to do with [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), [here's a YouTube video saying it](https://www.youtube.com/watch?v=wnW72cD-Fo8).
+
 I am an environmental data scientist with over a decade of experience in private, consulting, and government sectors.
 <!--
 **farnazn/farnazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
