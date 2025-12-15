@@ -1,6 +1,6 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I am Farnaz! This is how you pronounce my name: `[færˈnɑːz] [nowd͡ʒiˈvan]` - and since not everyone knows what to do with [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), here are YouTube videos saying my [first name](https://www.youtube.com/watch?v=wnW72cD-Fo8) and my [last name](https://www.youtube.com/watch?v=_qV6y446cE8).
+I am Farnaz Nojavan! This is how you pronounce my name: `[færˈnɑːz] [nowd͡ʒiˈvan]` - and since not everyone knows what to do with [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), here are YouTube videos saying my [first name](https://www.youtube.com/watch?v=wnW72cD-Fo8) and my [last name](https://www.youtube.com/watch?v=_qV6y446cE8).
 
 I am an environmental data scientist with over a decade of experience in government, consulting, and private sectors.
 <!--
